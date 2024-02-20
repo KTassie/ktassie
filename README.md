@@ -9,16 +9,24 @@
 
 - 😄 Pronouns: They/Them
 
-- 🔭 I’m currently working on [Weese](https://www.weese.wine/)
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaitassie/)
 
 - ⚡ Fun fact: **I cannot juggle...**
+
+
+## 🚀 My Bootcamp Projects
+
+
+- 📚 [Chef Chez Vous](https://github.com/TabChazelle/chef_chez_vous) - You can book a private Chef through this app, who will come to your house on a specific date and cater to you and your guests. We designed the app in an 'Airbnb' style and completed it with my project team at Le Wagon.
+
+- 🌟 [Weese](https://www.weese.wine/) - Weese, a Wine & Cheese pairing app, leverages ChatGPT APIs to match user inputs with the perfect wine or cheese. Users can save their favorite pairings to their profile anytime. We designed it specifically for mobile devices.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaitassie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaitassie" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
