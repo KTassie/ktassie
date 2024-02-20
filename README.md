@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">A passionate full stack developer from England</h3>
 
+<p align="center">
+  <img src="https://i.imgur.com/rtAXdmm.gif" alt="Coding">
+</p>
+
+----------------------------------------------------------------------------------------------------------
+
 - 😄 Pronouns: They/Them
 
 - 🔭 I’m currently working on [Weese](https://www.weese.wine/)
@@ -27,3 +33,8 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ktassie)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yourGitHubUsername.ktassie)
+
+
