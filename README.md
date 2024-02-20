@@ -35,6 +35,5 @@
 </p>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ktassie)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourGitHubUsername.ktassie)
 
 
