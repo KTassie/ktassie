@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weese](https://www.weese.wine/)
 
-- 📫 How to reach me **kaitassie@gmail.com**
+- 📫 How to reach me https://www.linkedin.com/in/kaitassie/
 
 - ⚡ Fun fact **I cannot juggle...**
 
