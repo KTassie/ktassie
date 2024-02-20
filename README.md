@@ -17,9 +17,9 @@
 ## 🚀 My Bootcamp Projects
 
 
-- 📚 [Chef Chez Vous](https://github.com/TabChazelle/chef_chez_vous) - You can book a private Chef through this app, who will come to your house on a specific date and cater to you and your guests. We designed the app in an 'Airbnb' style and completed it with my project team at Le Wagon.
+- 👨‍🍳 [Chef Chez Vous](https://github.com/TabChazelle/chef_chez_vous) - You can book a private Chef through this app, who will come to your house on a specific date and cater to you and your guests. We designed the app in an 'Airbnb' style and completed it with my project team at Le Wagon.
 
-- 🌟 [Weese](https://www.weese.wine/) - Weese, a Wine & Cheese pairing app, leverages ChatGPT APIs to match user inputs with the perfect wine or cheese. Users can save their favorite pairings to their profile anytime. We designed it specifically for mobile devices.
+- 🍷🧀 [Weese](https://www.weese.wine/) - Weese, a Wine & Cheese pairing app, leverages ChatGPT APIs to match user inputs with the perfect wine or cheese. Users can save their favorite pairings to their profile anytime. We designed it specifically for mobile devices.
 
 
 <h3 align="left">Connect with me:</h3>
